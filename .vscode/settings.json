@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "dataframe",
+        "HYPEN",
+        "mlproject",
+        "sklearn"
+    ],
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages"
+    ]
+}
