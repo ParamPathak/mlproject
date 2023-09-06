@@ -3,7 +3,9 @@
         "dataframe",
         "HYPEN",
         "mlproject",
-        "sklearn"
+        "modeltrainer",
+        "sklearn",
+        "xgboost"
     ],
     "python.analysis.extraPaths": [
         "./venv/Lib/site-packages"
