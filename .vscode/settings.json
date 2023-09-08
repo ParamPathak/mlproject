@@ -1,9 +1,12 @@
 {
     "cSpell.words": [
         "dataframe",
+        "datapoint",
         "HYPEN",
         "mlproject",
         "modeltrainer",
+        "predictdata",
+        "preds",
         "sklearn",
         "xgboost"
     ],
